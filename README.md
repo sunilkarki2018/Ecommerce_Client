@@ -1,6 +1,6 @@
 # Introduction
 
-It is an Ecommerce application designed as a frontend task at Integrify. This application uses [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/) as endpoint. It is deployed in netlify.[Deployment Link](https://bucolic-semifreddo-2378d4.netlify.app/)
+It is an Ecommerce application designed as a frontend task at Integrify. This application uses [link](https://ecommerce2024v1.azurewebsites.net/swagger/index.html) as endpoint. It is deployed in netlify.[Deployment Link](https://bucolic-semifreddo-2378d4.netlify.app/)
 
 ## Getting Started
 
